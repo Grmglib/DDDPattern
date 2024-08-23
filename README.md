@@ -1,0 +1,1 @@
+To change the variables used by .http file for test on vscode with Rest Client extension, press Ctrl+Shift+P -> Rest Client: Switch Environment -> choose one of the environments created on settings.json

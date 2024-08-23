@@ -1,0 +1,10 @@
+{
+    "rest-client.environmentVariables": {
+        "local": {
+            "baseUrl": "https://localhost:7234"
+        },
+        "production": {
+            "baseUrl": "https://productionUrl"
+        }
+    }
+}
