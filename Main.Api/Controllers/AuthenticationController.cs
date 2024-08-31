@@ -1,8 +1,8 @@
-﻿using DDDPattern.Application.Services.Authentication;
-using DDDPattern.Contracts.Authentication;
+﻿using Main.Application.Services.Authentication;
+using Main.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DDDPattern.Api.Controllers
+namespace Main.Api.Controllers
 {
     [ApiController]
     [Route("auth")]

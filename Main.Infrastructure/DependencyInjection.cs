@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DDDPattern.Infrastructure
+namespace Main.Infrastructure
 {
     public static class DependencyInjection
     {

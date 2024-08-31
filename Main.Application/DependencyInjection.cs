@@ -1,7 +1,7 @@
-﻿using DDDPattern.Application.Services.Authentication;
+﻿using Main.Application.Services.Authentication;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DDDPattern.Application
+namespace Main.Application
 {
     public static class DependencyInjection
     {

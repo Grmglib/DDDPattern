@@ -1,5 +1,5 @@
-using DDDPattern.Application;
-using DDDPattern.Infrastructure;
+using Main.Application;
+using Main.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {

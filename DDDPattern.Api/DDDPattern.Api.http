@@ -1,6 +1,0 @@
-@DDDPattern.Api_HostAddress = http://localhost:5283
-
-GET {{DDDPattern.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
